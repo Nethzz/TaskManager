@@ -1,4 +1,4 @@
-Task Manager
+#######  Task Manager ########
 
 
 
@@ -32,37 +32,16 @@ Tailwind CSS	UUID for IDs
 React Query	
 React Hot Toast	
 
-Project Structure
 
-
-TaskManager/
-├── backend/
-│   ├── src/
-│   │   ├── routes/
-│   │   ├── types/
-│   │   ├── app.ts
-│   │   └── index.ts
-│   └── tsconfig.json
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── services/
-│   │   ├── App.tsx
-│   │   ├── main.tsx
-│   ├── public/
-│   │   └── task.png
-│   └── tailwind.config.ts
-├── README.md
-
-
-How to Run the Project Locally
+#########   How to Run the Project Locally  ##########
 1. Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/task-manager.git
+
+git clone  https://github.com/Nethzz/TaskManager.git
 cd TaskManager
-2. Start the Backend
+3. Start the Backend
 
 cd backend
 npm install
@@ -105,4 +84,3 @@ User accounts and roles
 
 Author
 Made with ❤️ by Neethu Vasundharan Sheeja
-GitHub: [@yourgithubusername](https://github.com/Nethzz)
